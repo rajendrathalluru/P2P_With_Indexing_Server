@@ -5,7 +5,7 @@ This Projects requirements can be found below
 
 Requiremnts:
 
-java , Websocket,Threads
+java,Websocket,Threads
 
 In this project, I Will design a simple P2P system consisting of two components:
 1) A Central Indexing Server
